@@ -1,3 +1,7 @@
+note: the writing below taken from [machinelearningmastery.com](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+
+###TODO: update references
+
 ##Algorithm Similarity
 
 Algorithms are universally presented in groups by similarity in terms of function or form. For example, tree based methods, and neural network inspired methods. This is a useful grouping method, but it is not perfect. There are still algorithms that could just as easily fit into multiple categories like Learning Vector Quantization that is both a neural network inspired method and an instance-based method. There are also categories that have the same name that describes the problem and the class of algorithm such as Regression and Clustering. As such, you will see variations on the way algorithms are grouped depending on the source you check. Like machine learning algorithms themselves, there is no perfect model, just a good enough model.
